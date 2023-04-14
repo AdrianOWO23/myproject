@@ -15,6 +15,7 @@
 <td><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg"></td></img>
 <td><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg"></td></img>
 <td><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg"></td></img>
+<div><img src="https://th.bing.com/th/id/OIP.7cWrVl2TQhF3qenPckrabwHaJQ?pid=ImgDet&rs=1" alt='beatiful bird'></div>
 </tr>
 </table>
 <label>What do you do this next week?</label>
