@@ -17,6 +17,7 @@
 <td><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg"></td></img>
 </tr>
 </table>
+<label>What do you do this next week?</label>
 <select>
 </select>
 </body>
