@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>Bienvenido a mi pagina</title>
+</head>
+<body bgcolor="burlywood">
+<center><marquee><h1>Hola, Bienvenidos a mi pagina</h1></marquee></center>
+<center><marquee><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg"></marquee></center></img>
+<center><table border='5'></center>
+<tr>
+<td><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg"></td></img>
+<td><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg"></td></img>
+<td><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg"></td></img>
+</tr>
+<tr>
+<td><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg"></td></img>
+<td><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg"></td></img>
+<td><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg"></td></img>
+</tr>
+</table>
+</body>
+</html>
